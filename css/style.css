@@ -162,6 +162,7 @@ body{
         justify-content: center;
         align-items: center;
         margin-top: 20px;
+        padding: 0 20px;
        }
         .section-home .img-home {
            /* padding: 25px 0; */
@@ -219,7 +220,7 @@ body{
     .section-home .content-home h2{
         color: #37373e;
        font-family: "Amatic SC", sans-serif;
-       font-size: 50px;
+       font-size: 35px;
        font-weight: 600;
        margin-bottom: 20px;
     }
@@ -267,8 +268,9 @@ body{
       }
      .home .but{
         /* gap: 60px; */
-          
+          justify-content: center;
         align-items: center;
+        padding: 0 25px;
      }
       .home .but button:hover{
       background-color: #E61414;
