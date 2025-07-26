@@ -169,7 +169,7 @@ body{
         padding: 0 20px;
        }
         .section-home .img-home {
-           /* padding: 25px 0; */
+           margin-top: 60px;
         }
     .section-home .img-home img{
        transform: translate(0,0) rotate(0deg);
