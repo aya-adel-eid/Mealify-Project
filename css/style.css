@@ -248,6 +248,7 @@ body{
        border-bottom-right-radius: 50px;
        border-top-right-radius:50px;
        transition: background-color 0.5s;
+      
     }
      .section-home .content-home button a{
         color: #fff;
@@ -280,6 +281,7 @@ body{
         align-items: center;
         padding: 0 25px;
       flex-wrap: wrap;
+      
        
      }
       .home .but button:hover{

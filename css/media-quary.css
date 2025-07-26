@@ -79,6 +79,9 @@
 .get{
     order: 2;
 }
+.home .but{
+    /* flex-wrap: nowrap; */
+}
 
 }
 /* large */
