@@ -81,6 +81,7 @@
 }
 .home .but{
     /* flex-wrap: nowrap; */
+   justify-content: flex-start;
 }
 
 }
